@@ -1,0 +1,18 @@
+1- Grupo A:
+Matheus Scafuro
+Guilherme Cutieri
+Joao Vyctor
+Pedro Farrath
+Gustavo Farrath
+
+
+
+2- GameSphere
+
+3- Site de Jogos
+
+4- Conseguir completar um site de jogos simples.
+
+5- completo
+
+6- HTML, CSS, GitHub e Python
